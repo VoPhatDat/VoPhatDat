@@ -1,34 +1,23 @@
-## 👋 Hi, I'm Dat
+## hi, i'm dat 👋
 
-🎓 3rd-year Student at Ho Chi Minh City University of Industry and Trade (HUIT)
-🛡️ Cybersecurity | Network Forensics & Malware Analysis
+🎓 3rd-year student at HUIT
+🛡️ cybersecurity
 
 ---
 
 ## 🎯 Focus
 
-* Traffic Analysis
-* Detection Engineering
-* Network Attack Investigation
-
----
-
-## 🧠 Currently Learning
-
-* Zeek Framework & Log Analysis
-* Wireshark Deep Packet Inspection
-* Snort Rule Development
+* Traffic analysis
+* Detection engineering
+* Network attack investigation
+* SOC
 
 ---
 
 ## 🧪 Projects
 
-* 🔍 ReconDetect – Active Recon Detection System
-* 📊 PCAP Analysis Labs – Real traffic investigation
-* 🚨 Detection Rules – Custom IDS rules
-
+* ReconDetect – detecting network scanning behavior (In Progcess)
+* PhaMaVigenere – a simple vigenere cipher tool
+* FocusVocab - learning Vocabulary (vide code with gemini)
 ---
 
-## 📌 Motto
-
-> "To hack something, you must understand it like you are it."

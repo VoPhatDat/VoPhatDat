@@ -1,7 +1,7 @@
 ## hi, i'm dat 👋
-
-🎓 3rd-year student at HUIT
-🛡️ cybersecurity
+### Education  
+* 3rd-year student at HUIT
+* Information Security
 
 ---
 

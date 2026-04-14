@@ -16,7 +16,7 @@
 
 ## 🧪 Projects
 
-* ReconDetect – detecting network scanning behavior (In Progcess)
+* ReconDetect – detecting network scanning via rulebase
 * PhaMaVigenere – a simple vigenere cipher tool
 * FocusVocab - learning Vocabulary (vide code with gemini)
 ---

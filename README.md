@@ -1,4 +1,4 @@
-## hi, i'm dat 👋
+## hi, i'm Dat 👋
 ### Education  
 * 3rd-year student at HUIT
 * Information Security

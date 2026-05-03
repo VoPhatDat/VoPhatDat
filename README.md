@@ -20,6 +20,6 @@
 * PhaMaVigenere – a simple vigenere cipher tool
 * lab-student-management-pentest - The web pentesting lab simulation contains SQL Injection and Stored XSS vulnerabilities.
 
-and several other projects
+### and several other projects
 --- 
 

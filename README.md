@@ -19,6 +19,6 @@
 * ReconDetect – detecting network scanning via rulebase
 * PhaMaVigenere – a simple vigenere cipher tool
 * lab-student-management-pentest - The web pentesting lab simulation contains SQL Injection and Stored XSS vulnerabilities.
-* FocusVocab - learning Vocabulary (vide code with gemini)
----
+and several other projects
+--- 
 

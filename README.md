@@ -7,9 +7,6 @@
 
 ## 🎯 Focus
 
-* Traffic analysis
-* Detection engineering
-* Network attack investigation
 * SOC
 
 ---
